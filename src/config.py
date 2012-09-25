@@ -1,0 +1,6 @@
+NUM_TYPES = 5
+NUM_ATTRIBUTES = 25
+NUM_SEGMENTS = 200
+ROOT_DIR = '/home/2008/aallai2/ai/'
+
+
